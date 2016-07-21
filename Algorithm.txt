@@ -1,0 +1,30 @@
+
+
+Algorithm used String metric By matching adjacent character pairs:
+
+
+Algorithm :-
+
+1. Take the input as two strings a and b.
+
+2. Convert the lowercase alphabets present in both of them to uppercase by using function convU().
+
+3. Find the match parameter by using function comp()
+   Working of function comp():
+    we will take the example of two strings a= "FRANCE", b="FRENCH"
+
+
+   Set of Characters pairs present in a =  {FR, RA, AN, NC, CE}
+   Set of Characters pairs present in b =  {FR, RE, EN, NC, CH}
+
+                a intersetion b         =   {FR, NC}
+ 
+      Similarity index is calculated as:
+          
+
+             Similarity index =  2 x (number of elements in a intersection b)  / (length of a + length of b)
+
+             For given example  = 2 x (2)/(5+5) = 0.4
+
+          so given similarity index is 0.4 i.e 40 percent
+                 

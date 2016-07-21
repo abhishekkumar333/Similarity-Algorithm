@@ -1,5 +1,5 @@
 # Similarity-Algorithm
-Implementation of Alogorithm presented in http://www.catalysoft.com/articles/StrikeAMatch.html
+Implementation of Algorithm presented in http://www.catalysoft.com/articles/StrikeAMatch.html
 
 #The contents includes
 

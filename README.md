@@ -1,0 +1,26 @@
+# Similarity-Algorithm
+Implementation of Alogorithm presented in http://www.catalysoft.com/articles/StrikeAMatch.html
+
+#The contents includes
+
+main.cpp:- This is the main file includes all the code and logic required for testing your code.for algorithm logic see
+Algorithm.txt.
+
+output.png:- Image of the output of test files.(This is basically the output of main.cpp
+over the given test files)
+
+Algorithm:- Describes the algorithm used in determining the string metric parameter between two files.
+
+
+test_files_gen.cpp:- This code can be used for generating any number of empty text files.
+
+Test and target folder:- It includes all the test files i have used.
+
+
+
+If you want to have functions written in another library and then just want to include it in your working main then
+go to  src folder
+src folder:-This contains a main file and header files made to use the function comp without its definition in your
+main project just include "header.h"
+
+   

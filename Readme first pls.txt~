@@ -3,7 +3,7 @@ The contents includes
 main.cpp:- This is the main file includes all the code and logic required for testing your code.for algorithm logic see
 Algorithm.txt.
 
-output.png:- Image of the output of test files that i sent you.(You can look at it, This is basically the output of main.cpp
+output.png:- Image of the output of test files.(This is basically the output of main.cpp
 over the given test files)
 
 Algorithm:- Describes the algorithm used in determining the string metric parameter between two files.
